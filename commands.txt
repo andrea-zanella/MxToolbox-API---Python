@@ -1,0 +1,4 @@
+MX
+SPF
+DMARC
+DKIM
